@@ -7,8 +7,7 @@ export default class App extends Component {
     }
 
     render() {
-
-            return <div>webpack Run !</div>
+        return <div>webpack Run !</div>
     }
 
 }
